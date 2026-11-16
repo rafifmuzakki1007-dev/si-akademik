@@ -1,2 +1,1 @@
-# Sistem Informasi Akademik (SI-Akademik)
-Implementasi konsep OOP (Inheritance Base Controller & Repository Pattern) menggunakan PHP Native.
+# Sistem Informasi Akademik - Versi Fitur Login
